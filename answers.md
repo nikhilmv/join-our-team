@@ -1,7 +1,7 @@
 
 About You.
 -----------------
-1. Introduce yourself.
+#  Introduce yourself.
 
     Thank you for giving me this opportunity.
 
@@ -9,13 +9,13 @@ About You.
     
     As my current work experience and skills match your job requirements, I feel that I am a suitable candidate for this position.
  
-2. Describe your development environment. (Your OS, IDE, Editor and Config manager if any)
+## Describe your development environment. (Your OS, IDE, Editor and Config manager if any)
 
     Operating system familer with : Linux and Windows
     IDE: VS Code and Sublime Text
     Git 
 
-Social Profile
+## Social Profile
 -------------------
 
 Your Github profile url :  https://github.com/nikhilmv
@@ -25,11 +25,11 @@ Personal website, blog or something you want us to see. : Weblitz.in(technology 
 
  
 
-1)Which all programming languages are installed on your system.
+## 1. Which all programming languages are installed on your system.
 
 Php, react js
 
-2)Write a function that takes a number and returns an array of its digits.
+## 2.Write a function that takes a number and returns an array of its digits.
 
 <?php 
 function convertDigitToArray($number) {
@@ -44,7 +44,7 @@ function convertDigitToArray($number) {
 convertDigitToArray(8418148); 
 ?>
 
-3) Write function that translates a text to Pig Latin and back. English is translated to Pig Latin by taking the first letter of every word, moving it to the end of the word and adding ‘ay’. “Join with yellowfish” becomes “oinjay ithway ellowfishyay”.
+## 3. Write function that translates a text to Pig Latin and back. English is translated to Pig Latin by taking the first letter of every word, moving it to the end of the word and adding ‘ay’. “Join with yellowfish” becomes “oinjay ithway ellowfishyay”.
  
 
 <?php 
@@ -65,7 +65,7 @@ translateToPigLatin('Join with yellowfish');
 
 
 
-4)Write a function that rotates an array by k elements. For example [1,2,3,4,5,6] rotated by two becomes [3,4,5,6,1,2]. Try solving this without creating a copy of the array.
+## 4. Write a function that rotates an array by k elements. For example [1,2,3,4,5,6] rotated by two becomes [3,4,5,6,1,2]. Try solving this without creating a copy of the array.
 
 
 <?php   
@@ -88,7 +88,7 @@ print("Array after left rotation: <br>");
 arrayRotate(array(1, 2, 3, 4, 5, 6)); 
 ?>  
 
-5) Create a URL shortener using Laravel.
+## 5. Create a URL shortener using Laravel.
 
 please find the given link for the repository
 
